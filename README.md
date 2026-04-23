@@ -1,22 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Hamed</h1>
-<h3 align="center">A simple Programmer</h3>
-
----
-
-<p align="center">
- 
-  <!-- <img src="https://i.imgur.com/rTZkf4K.gif" alt="coding gif" width="100%" height="400px" style="object-fit: cover;" /> -->
-   <img src="https://datasciencedojo.com/wp-content/uploads/humor.gif" alt="coding gif" width="100%" height="400px" style="object-fit: cover;" />
-  
-</p>
-
----
+<!-- <h3 align="center">A simple Programmer</h3> -->
 
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **personal projects** and improving my portfolio  
-- 🌱 Learning **React, Django** for building optimized fullstack applications  
+- 🔭 Currently working on **personal projects**
 
 ---
 
