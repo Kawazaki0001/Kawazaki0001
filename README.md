@@ -1,3 +1,3 @@
 
-<h1 align="center">Python, Linux Enjoyer</h1>
+<h1 align="center">Python & Linux Enjoyer</h1>
 
